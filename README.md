@@ -49,7 +49,7 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: **akhlaqzega@gmail.com**
+- 📧 Email: **akhlaqsiddiqzega@gmail.com**
 - 🌐 GitHub: [github.com/akhlaqzega](https://github.com/akhlaqzega)
 
 ---
@@ -64,10 +64,7 @@
 
 ---
 
-### 📌 Fun Projects to Check Out
 
-- [Project Kost Laravel](https://github.com/akhlaqzega/kost-laravel) – Sistem informasi kamar kost
-- [Laravel Kasir App](https://github.com/akhlaqzega/laravel-kasir) – Aplikasi kasir sederhana
 
 ---
 
